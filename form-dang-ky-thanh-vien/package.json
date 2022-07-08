@@ -1,0 +1,7 @@
+{
+  "name": "ung-dung-nodeJs-phuc-vu-Template-HTML",
+  "version": "1.0.0",
+  "dependencies": {
+    "qs": "^6.11.0"
+  }
+}
